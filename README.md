@@ -1,4 +1,5 @@
 # DIO - Trilha .NET - Programação orientada a objetos
+Desafio concluído com sucesso !! Mais uma etapa vencida. Conceitos de POO e C# aprimorados e exercitados.
 www.dio.me
 
 ## Desafio de projeto
